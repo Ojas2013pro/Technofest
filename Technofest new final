@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fortify Pro Link</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 100px auto;
+            background-color: #ffffff;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #5c6bc0;
+            font-size: 2.5rem;
+        }
+        a {
+            font-size: 1.2rem;
+            color: #ffffff;
+            background-color: #5c6bc0;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        a:hover {
+            background-color: #3f51b5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Fortify Pro</h1>
+        <p>Click the link below to access the Fortify Pro website:</p>
+        <a href="https://sites.google.com/stu.stonehill.in/fortify-pro?usp=sharing" target="_blank">Go to Fortify Pro</a>
+    </div>
+</body>
+</html>
